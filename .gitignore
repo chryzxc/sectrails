@@ -1,0 +1,41 @@
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# API keys & credentials
+*.env
+config.json
+apikey.txt
+
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Package distribution files
+dist/
+build/
+*.egg-info/
+
+# Binary/executable files
+*.exe
+*.out
+*.bin
+*.o
